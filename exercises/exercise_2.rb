@@ -10,4 +10,4 @@ puts "----------"
 
 
 # update store1
-@store.update(name: 'TORONTO')
+@store1.update(name: 'TORONTO')
